@@ -39,4 +39,4 @@ Clique [aqui](https://www.figma.com/file/fQaTM68I4Bi8YnmFzoTNFk/Ilumeo---Teste-F
 Disponibilize o código em um repositório público no GitHub e nos envie o link.
 
 ## Em quanto tempo esperamos a solução?
-O prazo para realização do desafio é de 7 dias. Mas não se preocupe, caso não consiga atender todos os requisitos, envie o máximo que puder!
+O prazo para realização do desafio é de 4 dias. Mas não se preocupe, caso não consiga atender todos os requisitos, envie o máximo que puder!
