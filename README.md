@@ -8,8 +8,7 @@ Essa é sua oportunidade de mostrar seus conhecimentos e o que você sabe sobre 
 Utilize React no front-end e Node no back-end para o desenvolvimento da solução deste desafio. Pode ser utilizado qualquer biblioteca externa, principalmente para realizar testes (Jest, Vitest, por exemplo). Adicione um arquivo README.md com os procedimentos para executar os testes e a aplicação. Pedimos que trabalhe sozinho.
 
 ## Desafio
-Precisamos desenvolver uma aplicação para realizar o controle de ponto dos nossos colaboradores e permitir que eles tenham visibilidade das suas horas trabalhadas.
-A aplicação deve consistir em uma API e uma SPA que consuma a API.
+Precisamos desenvolver uma aplicação para realizar o controle de ponto dos nossos colaboradores e permitir que eles tenham visibilidade das suas horas trabalhadas. Temos um protótipo que não gostamos muito do ponto de vista de UX/UI e precisamos refazê-lo. A aplicação deve consistir em uma API e uma SPA que consuma a API.
 
 ### A solução é focada em três pontos principais:
 1)	Visualização atualizada das horas trabalhadas no dia atual
@@ -20,6 +19,7 @@ Clique [aqui](https://www.figma.com/file/fQaTM68I4Bi8YnmFzoTNFk/Ilumeo---Teste-F
 
 
 ## O que não pode faltar neste projeto?
+- Uma releitura do protótipo, em Figma mesmo [preferencialmente] ou outra ferramenta análoga
 - Docker
 - S.O.L.I.D.
 - Uso de Typescript
@@ -36,6 +36,7 @@ Clique [aqui](https://www.figma.com/file/fQaTM68I4Bi8YnmFzoTNFk/Ilumeo---Teste-F
 - Deploy da aplicação (Sugerimos Render para o Back-end e Vercel para o Front-end)
 
 ## Como deve ser a entrega?
+Envie um link com a sua releitura do protótipo, em um link público do Figma ou outra ferramenta
 Disponibilize o código em um repositório público no GitHub e nos envie o link.
 
 ## Em quanto tempo esperamos a solução?
